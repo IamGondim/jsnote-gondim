@@ -22,8 +22,8 @@
   },
   "devDependencies": {
     "@jsnote-gondim/local-api": "^1.0.0",
-    "commander": "^7.2.0",
     "@types/node": "^15.6.0",
+    "commander": "^7.2.0",
     "esbuild": "0.8.26",
     "typescript": "^4.2.4"
   }
